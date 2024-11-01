@@ -30,6 +30,10 @@ Kato Gestão é um sistema web de gerenciamento de um restaurante desenvolvido p
     - `config/`
   - **php.xml**: Arquivo de configuração de testes do phpunit.
   - **composer.json**: Arquivo de configuração de dependências do composer.
+ 
+## Estrutura do Projeto
+    - **Php:** Back-End.
+    - **Angular:** Front-end.
 
 
 ## Instalação
