@@ -5,15 +5,15 @@ Kato Gestão é um sistema web de gerenciamento de um restaurante desenvolvido p
 ## Funcionalidades
 
   # CRUD Mesa
-    - **Adicionar Mesa:** O usuário pode cadastrar um novo contato inserindo nome, telefone e e-mail.
-    - **Editar Mesa:** O usuário pode atualizar as informações de um contato existente.
-    - **Deletar Mesa:** O usuário pode excluir um contato da lista.
-    - **Listar Mesa:** Todos os contatos cadastrados são exibidos em uma lista interativa, permitindo fácil visualização e gerenciamento.
+    - **Adicionar Mesa:** O usuário pode cadastrar um nova mesa inserindo nome do cliente, nome do garçom e status da mesa.
+    - **Editar Mesa:** O usuário pode atualizar as informações de um mesa existente.
+    - **Deletar Mesa:** O usuário pode excluir um mesa da lista.
+    - **Listar Mesa:** Todos as mesas cadastradas são exibidos em uma lista interativa, permitindo fácil visualização e gerenciamento.
   # CRUD Pedidos
-    - **Adicionar Pedido:** O usuário pode cadastrar um novo contato inserindo nome, telefone e e-mail.
-    - **Editar Pedido:** O usuário pode atualizar as informações de um contato existente.
-    - **Deletar Pedido:** O usuário pode excluir um contato da lista.
-    - **Listar Pedido:** Todos os contatos cadastrados são exibidos em uma lista interativa, permitindo fácil visualização e gerenciamento.
+    - **Adicionar Pedido:** O usuário pode cadastrar um novo pedido nome do cliente, nome do garçom, itens do pedido.
+    - **Editar Pedido:** O usuário pode atualizar as informações(como status do pedido) de um Pedido existente.
+    - **Deletar Pedido:** O usuário pode excluir um Pedido da lista.
+    - **Listar Pedido:** Todos os Pedidos cadastrados são exibidos em uma card com uma lista interativa.
 
 ## Estrutura do Projeto
 
